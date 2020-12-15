@@ -1,0 +1,17 @@
+.feed{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    flex-wrap: wrap;
+}
+.outer{
+    width: 100%;
+}
+.inner{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
