@@ -19,4 +19,4 @@ You can also like the status.
 
 You can also upload the images.
 
-[](img/5.png)
+![](img/5.png)
