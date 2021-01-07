@@ -11,7 +11,7 @@ You can upload status.
 
 The status would be uploaded with date and time.
 
-![](img/3.png)
+![](img/3.1.png)
 
 You can also like the status.
 
